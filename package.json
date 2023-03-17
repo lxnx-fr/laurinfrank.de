@@ -12,7 +12,6 @@
     "build:css": "npx tailwindcss -o dist/assets/index.3c88dfa5.css --minify"
   },
   "dependencies": {
-    "@chenfengyuan/vue-countdown": "2",
     "debounce": "^1.2.1",
     "hsl-to-hex": "^1.0.0",
     "simplex-noise": "^4.0.1",
